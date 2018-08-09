@@ -4,7 +4,7 @@ namespace WyriHaximus\Annotations;
 
 /**
  * @Annotation
- * @Target({"METHOD"})
+ * @Target({"CLASS", "METHOD"})
  */
 final class Coroutine
 {
