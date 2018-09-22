@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "f4cf3803a3ac26d2874417ac5c6dde6c",
+    "content-hash": "4b0f035f0618d62a968073a460b1de15",
     "packages": [
         {
             "name": "cakephp/collection",
@@ -212,16 +212,16 @@
         },
         {
             "name": "wyrihaximus/to-x-or-not-to-x",
-            "version": "dev-master",
+            "version": "1.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/WyriHaximus/php-to-X-or-not-to-X.git",
-                "reference": "20b123918ba7034a5cac9428194e38e95f3daded"
+                "reference": "78c2cda81e3f293f10d9a772a22fed188ea50e43"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/WyriHaximus/php-to-X-or-not-to-X/zipball/20b123918ba7034a5cac9428194e38e95f3daded",
-                "reference": "20b123918ba7034a5cac9428194e38e95f3daded",
+                "url": "https://api.github.com/repos/WyriHaximus/php-to-X-or-not-to-X/zipball/78c2cda81e3f293f10d9a772a22fed188ea50e43",
+                "reference": "78c2cda81e3f293f10d9a772a22fed188ea50e43",
                 "shasum": ""
             },
             "require": {
@@ -266,7 +266,7 @@
                 }
             ],
             "description": "To X or not to X",
-            "time": "2018-07-16T17:41:15+00:00"
+            "time": "2018-09-22T19:43:24+00:00"
         }
     ],
     "packages-dev": [
@@ -3672,9 +3672,7 @@
     ],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": {
-        "wyrihaximus/to-x-or-not-to-x": 20
-    },
+    "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {

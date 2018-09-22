@@ -12,7 +12,7 @@
   "require": {
     "php": "^7.2",
     "wyrihaximus/doctrine-annotation-autoloader": "^1.0",
-    "wyrihaximus/to-x-or-not-to-x": "dev-master"
+    "wyrihaximus/to-x-or-not-to-x": "^1.0"
   },
   "require-dev": {
     "api-clients/test-utilities": "^5.0"
