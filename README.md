@@ -1,5 +1,21 @@
 # To coroutine or not to coroutine
+
 Bare function using annotations to decide if the given function should be run in a coroutine
+
+[![Build Status](https://travis-ci.com/WyriHaximus/php-to-coroutine-or-not-to-coroutine.svg?branch=master)](https://travis-ci.com/WyriHaximus/php-to-coroutine-or-not-to-coroutine)
+[![Latest Stable Version](https://poser.pugx.org/WyriHaximus/to-coroutine-or-not-to-coroutine/v/stable.png)](https://packagist.org/packages/WyriHaximus/to-coroutine-or-not-to-coroutine)
+[![Total Downloads](https://poser.pugx.org/WyriHaximus/to-coroutine-or-not-to-coroutine/downloads.png)](https://packagist.org/packages/WyriHaximus/to-coroutine-or-not-to-coroutine)
+[![Code Coverage](https://scrutinizer-ci.com/g/WyriHaximus/php-to-coroutine-or-not-to-coroutine/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/WyriHaximus/php-to-coroutine-or-not-to-coroutine/?branch=master)
+[![License](https://poser.pugx.org/WyriHaximus/to-coroutine-or-not-to-coroutine/license.png)](https://packagist.org/packages/WyriHaximus/to-coroutine-or-not-to-coroutine)
+[![PHP 7 ready](http://php7ready.timesplinter.ch/WyriHaximus/reactphp-http-middleware-clear-body/badge.svg)](https://travis-ci.org/WyriHaximus/reactphp-http-middleware-clear-body)
+
+# Install
+
+To install via [Composer](http://getcomposer.org/), use the command below, it will automatically detect the latest version and bind it with `^`.
+
+```
+composer require wyrihaximus/to-coroutine-or-not-to-coroutine
+```
 
 # License
 
