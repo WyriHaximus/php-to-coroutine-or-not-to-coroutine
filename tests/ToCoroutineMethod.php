@@ -9,7 +9,7 @@ final class ToCoroutineMethod
     /**
      * @Coroutine()
      */
-    public function method()
+    public function method(): void
     {
     }
 }
